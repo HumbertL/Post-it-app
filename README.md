@@ -1,4 +1,4 @@
 # Post-it-app
-This project was created for my first semester, sorry if code looks very rudimentary
-The project consists in a reminder app. Some sort of digital to-do list. There's two implementations of the project, the first one is written completely for terminals. You access an excel document which acts as the database for both versions of the app.
-The TKINTER one is my favorite one, because it shows you in a very dynamic manner your homeworks through an easy to use menu with buttons such as add homework, remove homework, load, etc. 
+This is project was developed during the first semester of college, it served as the final evaluation for my programming class.
+It consists in a reminder app. Some sort of digital to-do list. There's two implementations of the project, the first one is written completely for terminals. User can register its tasks through an excel document which acts as the database for both versions of the app.
+The second one is my favorite, it has a complete GUI developed in TKINTER and it shows your homeworks through an easy to use day menu with buttons such as add homework, remove homework, load, etc. 
